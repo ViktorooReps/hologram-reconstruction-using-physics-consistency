@@ -1,0 +1,33 @@
+{
+  "SPHardwareDataType" : [
+    {
+      "_name" : "hardware_overview",
+      "activation_lock_status" : "activation_lock_enabled",
+      "boot_rom_version" : "10151.101.3",
+      "chip_type" : "Apple M2",
+      "machine_model" : "Mac14,2",
+      "machine_name" : "MacBook Air",
+      "model_number" : "Z15W00619SM/A",
+      "number_processors" : "proc 8:4:4",
+      "os_loader_version" : "10151.101.3",
+      "physical_memory" : "16 GB",
+      "platform_UUID" : "A27668AA-D1ED-56EE-B5CA-AF1B4A848EF6",
+      "provisioning_UDID" : "00008112-0001649E3CD9A01E",
+      "serial_number" : "GJGH7FD9H9"
+    }
+  ],
+  "SPSoftwareDataType" : [
+    {
+      "_name" : "os_overview",
+      "boot_mode" : "normal_boot",
+      "boot_volume" : "Macintosh HD",
+      "kernel_version" : "Darwin 23.4.0",
+      "local_host_name" : "MacBook Air (3)",
+      "os_version" : "macOS 14.4 (23E214)",
+      "secure_vm" : "secure_vm_enabled",
+      "system_integrity" : "integrity_enabled",
+      "uptime" : "up 4:13:45:17",
+      "user_name" : "Viktor Scherbakov (Viktor)"
+    }
+  ]
+}

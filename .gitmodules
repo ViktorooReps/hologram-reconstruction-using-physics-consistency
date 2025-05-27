@@ -1,0 +1,3 @@
+[submodule "GedankenNet-mps"]
+	path = GedankenNet-mps
+	url = ./GedankenNet-mps
